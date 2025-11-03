@@ -1,7 +1,7 @@
-# Image Acquisition using Web Camera
-
-### Name : HARIHARAN J
-### Register No : 212223240047
+<img width="978" height="457" alt="image" src="https://github.com/user-attachments/assets/b202e8f3-ee44-4924-9cf8-ee43af24de70" /># Image Acquisition using Web Camera
+## EXPERIMENT NO: 2
+### Name : AVINASH T
+### Register No : 212223230026
 
 ## Aim :
  
@@ -115,19 +115,23 @@ cap.release()
 
 ### i) Write the frame as JPG image
 
-<img width="578" height="471" alt="image" src="https://github.com/user-attachments/assets/eb6b1f49-7340-417c-afc9-3f2c54d7321e" />
+<img width="949" height="465" alt="image" src="https://github.com/user-attachments/assets/fe09a867-5fcd-49a4-ba05-3629253afde3" />
+
 
 ### ii) Display the video
 
-<img width="574" height="441" alt="image" src="https://github.com/user-attachments/assets/e85a97f4-f5e6-4917-abff-d923d755063d" />
+<img width="924" height="447" alt="image" src="https://github.com/user-attachments/assets/e96ae5e0-12bf-4072-831f-a890c3ceaf3e" />
+
 
 ### iii) Display the video by resizing the window
 
-<img width="288" height="430" alt="image" src="https://github.com/user-attachments/assets/c4c2325c-004b-4b36-bb54-7cfcc659a60f" />
+<img width="1002" height="430" alt="image" src="https://github.com/user-attachments/assets/bf259cb2-d427-4168-b249-2744a164a1af" />
+
 
 ### iv) Rotate and display the video
 
-<img width="331" height="435" alt="image" src="https://github.com/user-attachments/assets/850eb338-6853-446b-a1d9-3dd61c8fa259" />
+<img width="978" height="457" alt="image" src="https://github.com/user-attachments/assets/c7e6113d-4f44-4d4a-933e-aba7108dbf18" />
+
 
 ## Result :
 Thus the image is accessed from webcamera and displayed using openCV.
