@@ -1,4 +1,4 @@
-<img width="978" height="457" alt="image" src="https://github.com/user-attachments/assets/b202e8f3-ee44-4924-9cf8-ee43af24de70" /># Image Acquisition using Web Camera
+# Image Acquisition using Web Camera
 ## EXPERIMENT NO: 2
 ### Name : AVINASH T
 ### Register No : 212223230026
